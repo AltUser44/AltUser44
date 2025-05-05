@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Improving UI/UX design skills and advanced backend development**
 
-- 👨‍💻 All of my projects are available at [https://kesternkese.com/](https://kesternkese.com/)
+- 👨‍💻 All of my projects are available at [https://kesternkese.com/](https://kesternkese.com)
 
 - 💬 Ask me about **React, GSAP, and building fullstack web apps**
 
