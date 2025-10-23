@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Bron](https://bron.digital)
 
-- 🌱 I’m currently learning **Golang, C++, and improving API design & database management.**
+- 🌱 I’m currently learning **Ruby, Swift, Golang, C++, and improving API design & database management.**
 
 - 👯 I’m looking to collaborate on **Fullstack projects that use React, Next.js, or Node.js**
 
@@ -15,11 +15,11 @@
 
 - 👨‍💻 All of my projects are available at [https://kesternkese.com/](https://kesternkese.com)
 
-- 💬 Ask me about **React, GSAP, and building fullstack web apps**
+- 💬 Ask me about **React, GSAP, and building full-stack web apps**
 
-- 📫 How to reach me **nkesekoregonstate.edu**
+- 📫 How to reach me **kesternkese@gmail.com**
 
-- ⚡ Fun fact **I love turning cool project ideas into real, working web apps.**
+- ⚡ Fun fact **I have a black belt in Karate.**
                                                                                                                                                 
 <h3 align="left">Connect with me:</h3>                                                                                    
 <p align="left">
