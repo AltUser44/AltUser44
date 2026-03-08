@@ -78,26 +78,13 @@ https://www.linkedin.com/in/kester-nkese-47a205214/
 - MySQL
 - MongoDB
 
----
 
-## 🚀 Highlighted Projects
-
-### BankerAI
-Full-stack data processing dashboard built with **React and TypeScript** that transforms API responses into structured JSON schemas for automated research workflows.
-
-### GameAuth
-Java **REST microservice** implementing authentication and authorization endpoints with DAO architecture and health-check monitoring.
-
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=altuser44&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altuser44&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AltUser44&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AltUser44&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
