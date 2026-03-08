@@ -30,7 +30,7 @@ Building reliable healthcare systems, backend services, and scalable APIs.
 
 ## 🔗 Portfolio
 
-🌐 https://kesternkese.com/
+🌐 [https://kesternkese.com/](https://himothy-nine.vercel.app/)
 
 ---
 
@@ -83,8 +83,11 @@ https://www.linkedin.com/in/kester-nkese-47a205214/
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AltUser44&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AltUser44&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AltUser44&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AltUser44&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
