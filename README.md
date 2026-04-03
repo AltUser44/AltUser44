@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kester Nkese</h1>
 
 <h3 align="center">
-Healthcare Software Engineer | Backend Systems | APIs | Production Data Integrations
+Software Engineer | Backend Systems | APIs | Production Data Integrations
 </h3>
 
 <p align="center">
