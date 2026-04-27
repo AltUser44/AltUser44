@@ -57,6 +57,7 @@ https://www.linkedin.com/in/kester-nkese-47a205214/
 - FastAPI
 - Java
 - Node.js
+- Spring Boot
 - REST APIs
 - SQL
 
@@ -65,12 +66,14 @@ https://www.linkedin.com/in/kester-nkese-47a205214/
 - Next.js
 - TypeScript
 - Tailwind CSS
+- Angular
 
 ### DevOps & Infrastructure
 - Docker
 - GitHub Actions
 - CI/CD
 - Linux
+- AWS
 - Azure
 
 ### Databases
